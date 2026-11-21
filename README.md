@@ -1,8 +1,8 @@
-# Quiz Title
+# Science Quiz
  
 **Name:** Zara J. Barte
 **Section:** BSINFOTECH SE-3A 
-**Topic:** Science Quiz
+**Topic:** Common Science Questions 
  
 ## Features Completed
 ✅10 multiple-choice questions
